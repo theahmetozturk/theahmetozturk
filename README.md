@@ -19,7 +19,7 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://www.memedroid.com/memes/random" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=theahmetozturk&icon=5&color=12)](https://visitcount.itsvg.in)
